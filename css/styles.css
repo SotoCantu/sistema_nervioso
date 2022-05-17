@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.intro {
+    background-color: #071E2E;
+    text-align: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.title {
+    color: #F6AE73;
+    font-size: 6vh;
+    margin-bottom: 2vh;
+}
+
+.intro img {
+    margin-bottom: 2vh;
+    height: 65vh;
+    max-width: 100vw;
+    border-radius: 18px;
+}
+
+.participants {
+    color: #E8F9FD;
+    font-size: 2vh;
+}
+
+.beggining {
+    text-align: center;
+    padding: 2vh 2vw;
+}
+
+.begginingTitle {
+    font-family: 'Koulen', cursive;
+    font-size: 5.5vh;
+    color: #2155CD;
+}
+
+.begginingParagraph {
+    font-size: 4vh;
+    color: #0AA1DD;
+}
+
+.beggining img {
+    height: 80vh;
+    max-width: 100vw;
+}
+
+.part {
+    text-align: center;
+    padding: 2vh 3vw;
+}
+
+.part img {
+    height: 45vh;
+    max-width: 100vw;
+}
+
+.part1, .part3, .part5 {
+    background-color: #79DAE8;
+}
+
+.part1 .partTitle, .part3 .partTitle, .part5 .partTitle {
+    color: #0AA1DD;
+}
+
+.part1 .partText, .part3 .partText, .part5 .partText {
+    color: #E8F9FD;
+}
+
+.btnSection {
+    text-align: center;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+
+.invisible {
+    display: none;
+}
+
+.finished {
+    padding: 5vh 5vw;
+}
